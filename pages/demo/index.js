@@ -4,7 +4,6 @@ import { getListPage } from "@lib/contentParser";
 import { TemplatePreview } from '@layouts/components/TemplatePreview';
 import Image from 'next/image';
 
-
 const Demo = ({ frontmatter }) => {
   const { templates } = frontmatter;
   return (
