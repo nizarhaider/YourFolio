@@ -19,11 +19,11 @@
       "menu": [
         {
           "text": "Pricing",
-          "url": "/#"
+          "url": "/"
         },
         {
           "text": "Quick Start",
-          "url": "#"
+          "url": "/demo"
         }
       ]
     },
@@ -32,15 +32,15 @@
       "menu": [
         {
           "text": "Features",
-          "url": "#"
+          "url": "/"
         },
         {
           "text": "Platform",
-          "url": "#"
+          "url": "/"
         },
         {
           "text": "Pricing",
-          "url": "/#"
+          "url": "/"
         }
       ]
     },
@@ -49,7 +49,7 @@
       "menu": [
         {
           "text": "FAQ",
-          "url": "/#"
+          "url": "/"
         },
         {
           "text": "Privacy Policy",

@@ -1,9 +1,9 @@
 {
-  "facebook": "https://facebook.com/",
-  "twitter": "https://twitter.com/",
-  "instagram": "",
+  "facebook": "https://www.instagram.com/yourfolio/",
+  "twitter": "https://www.instagram.com/yourfolio/",
+  "instagram": "https://www.instagram.com/yourfolio/",
   "youtube": "",
-  "linkedin": "https://linkedin.com/",
+  "linkedin": "https://www.instagram.com/yourfolio/",
   "github": "",
   "gitlab": "",
   "discord": "",
@@ -27,6 +27,6 @@
   "email": "",
   "phone": "",
   "address": "",
-  "skype": "https://skype.com/",
+  "skype": "",
   "website": ""
 }

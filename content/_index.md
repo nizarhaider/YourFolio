@@ -5,7 +5,7 @@ banner:
   image: /images/banner-art.svg
   button:
     label: "Get Started for Free"
-    link: "/contact"
+    link: "https://wa.link/oa88rs"
 
 # feature
 feature: 
@@ -59,7 +59,7 @@ call_to_action:
   button:
     enable: true
     label: "Contact Us"
-    link: "/contact"
+    link: "https://wa.link/oa88rs"
 
 universities:
   # title: Universities we work with
@@ -101,7 +101,7 @@ pricing:
         - "Free SSL Certificate"
       button:
         label: "Get started for free"
-        link: "/contact"
+        link: "https://wa.link/oa88rs"
 
     - title: "Graduate Plan"
       subtitle: "Best For Final Year Students"
@@ -115,7 +115,7 @@ pricing:
         - "Free SSL Certificate"
       button:
         label: "Get started for free"
-        link: "/contact"
+        link: "https://wa.link/oa88rs"
 
     - title: "Professional Plan"
       subtitle: "Best For Working Individuals"
@@ -128,7 +128,7 @@ pricing:
 
       button:
         label: "Get started"
-        link: "/contact"
+        link: "https://wa.link/oa88rs"
 
   call_to_action:
     title: "Need a larger plan?"
@@ -137,7 +137,7 @@ pricing:
     button:
       enable: true
       label: "Contact Us"
-      link: "/contact"
+      link: "https://wa.link/oa88rs"
 
 faq:
 

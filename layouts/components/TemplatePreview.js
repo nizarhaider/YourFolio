@@ -15,7 +15,7 @@ export const TemplatePreview = (templates) => {
   }
 
   return (
-    <div className="border-sky-500 container mx-auto border-2 border-solid ">
+    <div className="border-sky-500 container mx-auto border-2 border-none ">
       {selectedOption === 1 && (
         <div>
           {/* <div className="mb-2">
@@ -23,12 +23,12 @@ export const TemplatePreview = (templates) => {
             Pick your Template
           </h5>
         </div> */}
-          <div className="border-sky-500 grid lg:grid-cols-2 justify-items-center gap-4 border-2 border-solid p-4">
+          <div className="border-sky-500 grid lg:grid-cols-2 justify-items-center gap-4 border-2 border-none p-4">
             {templates.templates.map((template) => (
               <div
                 className={`group relative h-full w-full overflow-hidden rounded-lg shadow-none transition-shadow duration-300 ease-in-out hover:shadow-lg hover:shadow-black/30  ${
                   selectedTemplate === template.name
-                    ? "border-4 border-solid border-teal-700 "
+                    ? "border-4 border-none border-teal-700 "
                     : ""
                 }`}
               >
