@@ -5,7 +5,7 @@ banner:
   image: /images/banner-art.svg
   button:
     label: "Get Started for Free"
-    link: "https://wa.link/oa88rs"
+    link: "https://wa.link/3hf420"
 
 # feature
 feature: 
@@ -59,7 +59,7 @@ call_to_action:
   button:
     enable: true
     label: "Contact Us"
-    link: "https://wa.link/oa88rs"
+    link: "https://wa.link/3hf420"
 
 universities:
   # title: Universities we work with
@@ -87,6 +87,7 @@ universities:
       image: "/images/segi.png"
     - name: "Multimedia University"
       image: "/images/mmu.png"
+
 # pricing
 pricing:
   title: "Pricing"
@@ -101,7 +102,7 @@ pricing:
         - "Free SSL Certificate"
       button:
         label: "Get started for free"
-        link: "https://wa.link/oa88rs"
+        link: "https://wa.link/3hf420"
 
     - title: "Graduate Plan"
       subtitle: "Best For Final Year Students"
@@ -115,7 +116,7 @@ pricing:
         - "Free SSL Certificate"
       button:
         label: "Get started for free"
-        link: "https://wa.link/oa88rs"
+        link: "https://wa.link/3hf420"
 
     - title: "Professional Plan"
       subtitle: "Best For Working Individuals"
@@ -128,7 +129,7 @@ pricing:
 
       button:
         label: "Get started"
-        link: "https://wa.link/oa88rs"
+        link: "https://wa.link/3hf420"
 
   call_to_action:
     title: "Need a larger plan?"
@@ -137,7 +138,7 @@ pricing:
     button:
       enable: true
       label: "Contact Us"
-      link: "https://wa.link/oa88rs"
+      link: "https://wa.link/3hf420"
 
 faq:
 

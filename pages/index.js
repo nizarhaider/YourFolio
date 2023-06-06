@@ -15,6 +15,7 @@ import 'swiper/css';
 import 'swiper/css/pagination';
 import 'swiper/css/autoplay';
 import 'swiper/css/navigation';
+import { FloatingWhatsApp } from "react-floating-whatsapp";
 
 
 
@@ -267,15 +268,23 @@ const Home = ({ frontmatter }) => {
       <section className="section bg-white">
         <div className="container">
           <div className="text-center">
-            <h2 className="font-bold ">
-              Frequently Asked Questions
-            </h2>
+            <h2 className="font-bold ">Frequently Asked Questions</h2>
           </div>
           <div className="mt-20">
             <Faq data={faq} />
           </div>
         </div>
       </section>
+
+      <FloatingWhatsApp
+        phoneNumber="94742530708"
+        accountName="Friendly Owl"
+        allowEsc
+        allowClickAway
+        notification
+        notificationSound
+        avatar="images/favicon.png"
+      />
     </Base>
   );
 };
