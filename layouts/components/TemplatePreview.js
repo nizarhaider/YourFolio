@@ -47,7 +47,7 @@ export const TemplatePreview = (templates) => {
                     <a
                       href={template.demoUrl}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      
                     >
                       View Demo
                     </a>
