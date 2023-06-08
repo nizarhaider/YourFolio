@@ -1,8 +1,8 @@
 ---
-title: Here's a list of the top reasons why having a personal website is crucial in today's world
+title: 10 good reasons to get started with a website
 description: "Heading example Here is example of hedings. You can use this heading by following markdownify rules."
-image: "/images/blog-2.jpg"
-date: 2022-05-04T05:00:00Z
+image: "/images/fatima.png"
+date: 2023-05-08T05:00:00Z
 draft: false
 ---
 
