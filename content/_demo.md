@@ -21,4 +21,8 @@ templates:
     image: "/images/shot-3.png"
     description: Best for sports fanatics
     demoUrl: "https://darkify-prod.netlify.app/"
+  - name: "astro"
+    image: "/images/shot-7.png"
+    description: Best for sports fanatics
+    demoUrl: "https://astrofy-template.netlify.app/"
 ---
